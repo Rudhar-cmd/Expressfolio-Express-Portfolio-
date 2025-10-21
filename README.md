@@ -1,4 +1,4 @@
-# 💼 Portfolio Website (Node.js + Express + EJS)
+# Portfolio Website (Node.js + Express + EJS)
 
 This is a simple Node.js web application...
 
