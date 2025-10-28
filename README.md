@@ -37,6 +37,5 @@ This project serves multiple EJS pages...
 5. Visit localhost...
 
 
- Clone the repository:  
-   ```bash
-   git clone https://github.com/Rudhar-cmd/Analog-Clock.git
+![speed](https://github.com/user-attachments/assets/7da5d018-d9d4-499c-98e4-917227280215)
+
